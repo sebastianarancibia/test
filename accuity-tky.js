@@ -1,9 +1,4 @@
 <script type="text/javascript">
-if("%calendar%"==="You.Fit Training"){o
-window.top.location = 'https://youfittraining.feirto.com/elevate-21daytransformation2';}
-</script>
-
-<script type="text/javascript">
 if("%calendar%"==="Murwillumbah Combat Club"){
 window.top.location = 'https://murwillumbahcombatclub.feirto.com/elevate-21daytransformation';}
 </script>
