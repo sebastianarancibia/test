@@ -1,4 +1,9 @@
-<script type="text/javascript">
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  
+  <script type="text/javascript">
 if("%calendar%"==="Murwillumbah Combat Club"){
 window.top.location = 'https://murwillumbahcombatclub.feirto.com/elevate-21daytransformation';}
 </script>
@@ -165,3 +170,10 @@ if("%calendar%"==="The Lambda Academy"){
 window.top.location = 'https://thelambdaacademy.mgm.health/thankyou-lambdaacademy';}
 </script>
 
+</head>
+
+<body>
+
+</body>
+
+</html>
